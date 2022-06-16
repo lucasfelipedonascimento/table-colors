@@ -1,0 +1,197 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(14, 100%, 12%);
+  max-width: 100%;
+  max-height: 100%;
+  padding-top: 0.9%;
+}
+
+h1,
+h2 {
+  color: hsl(244, 98%, 100%);
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600, bold;
+}
+
+th,
+tr,
+td {
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  border-width: 1em;
+  border-color: hsl(0, 0%, 0%);
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600, bold;
+}
+
+/* RED = VERMELHO */
+.red {
+  background-color: hsl(0, 100%, 60%);
+}
+
+#red-1 {
+  background-color: hsl(0, 100%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+#red-2 {
+  background-color: hsl(0, 100%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+#red-3 {
+  background-color: hsl(0, 100%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+#red-4 {
+  background-color: hsl(0, 100%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+
+/* GREEN = VERDE */
+.green {
+  background-color: hsl(120, 100%, 60%);
+}
+
+#green-1 {
+  background-color: hsl(120, 94%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+
+#green-2 {
+  background-color: hsl(120, 100%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+
+#green-3 {
+  background-color: hsl(120, 99%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#green-4 {
+  background-color: hsl(120, 100%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+
+/* BLUE = AZUL */
+.blue {
+  background-color: hsl(204, 100%, 60%);
+}
+
+#blue-1 {
+  background-color: hsl(204, 100%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+
+#blue-2 {
+  background-color: hsl(204, 100%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+
+#blue-3 {
+  background-color: hsl(204, 100%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#blue-4 {
+  background-color: hsl(204, 100%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+
+/* MAGENTA = MAGENTA */
+.magenta {
+  background-color: hsl(299, 98%, 60%);
+}
+
+#Magenta-1 {
+  background-color: hsl(299, 98%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+
+#Magenta-2 {
+  background-color: hsl(299, 99%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Magenta-3 {
+  background-color: hsl(299, 98%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Magenta-4 {
+  background-color: hsl(299, 98%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+/* CYAN = CIANO */
+.cyan {
+  background-color: hsl(179, 98%, 60%);
+  color: hsl(0, 0%, 0%);
+}
+#Cyan-1 {
+  background-color: hsl(179, 98%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+
+#Cyan-2 {
+  background-color: hsl(179, 98%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Cyan-3 {
+  background-color: hsl(179, 98%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Cyan-4 {
+  background-color: hsl(179, 98%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+/* YELLOW = AMARELO */
+.yellow {
+  background-color: hsl(60, 100%, 60%);
+  color: hsl(0, 0%, 0%);
+}
+
+#Yellow-1 {
+  background-color: hsl(60, 100%, 41%);
+}
+
+#Yellow-2 {
+  background-color: hsl(60, 100%, 33%);
+}
+
+#Yellow-3 {
+  background-color: hsl(60, 100%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Yellow-4 {
+  background-color: hsl(60, 100%, 18%);
+  color: hsl(244, 98%, 100%);
+}
+/* ORANGE = LARANJA */
+.orange {
+  background-color: hsl(25, 100%, 60%);
+  color: hsl(0, 0%, 0%);
+}
+
+#Orange-1 {
+  background-color: hsl(25, 100%, 41%);
+  color: hsl(0, 0%, 0%);
+}
+
+#Orange-2 {
+  background-color: hsl(25, 100%, 33%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Orange-3 {
+  background-color: hsl(25, 100%, 28%);
+  color: hsl(244, 98%, 100%);
+}
+
+#Orange-4 {
+  background-color: hsl(25, 100%, 18%);
+  color: hsl(244, 98%, 100%);
+}
